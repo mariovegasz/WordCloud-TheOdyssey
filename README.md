@@ -1,6 +1,6 @@
-# WordCloud-Ulises
+# WordCloud-Ulises 🖼️📊
 
-Worlcloud practice based on the text of the book: 'The Odyssey'.
+WordCloud practice based on the text of the book: 'The Odyssey'.
 
 ![Captura de pantalla_20230108_143433](https://user-images.githubusercontent.com/119113483/211198909-212cf251-e029-409f-86b7-565221be893d.png)
 
