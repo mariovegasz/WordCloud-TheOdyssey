@@ -20,9 +20,7 @@ WordCloud practice based on the text of the book: 'The Odyssey'.
 The entire text of the book: 'The Odyssey'.
 
 ## Text mining ⛏️
-* First of all, we eliminate the "stopwords" from the abstract column, discarding irrelevant words to reduce the dimension later, facilitating the training of the model.
-* We convert each word of the abstract to tokens in order to work with them.
-* We eliminate the words that only appear once and the numbers, since when creating clusters they do not give us anything.
+* First of all, we eliminate the "stopwords" from the abstract column, discarding irrelevant words to reduce the dimension later.
 * We create the object again adding the mask
 
 ## Preview 🖼️
